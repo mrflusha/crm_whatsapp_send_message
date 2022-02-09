@@ -13,7 +13,8 @@ def unpack(resp):
 
 
 
-#[begin] get token if need token uncoment all
+
+#[begin] get token, if need token uncoment all. need refacror this code
 url = 'https://dev.wapp.im/v3/chat/spare?crm=TEST&domain=test'
  
 headers = {"Content-Type": "application/json; charset=utf-8",
